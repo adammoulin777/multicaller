@@ -4,6 +4,7 @@
 [![CI][ci-shield]][ci-url]
 
 Efficiently call multiple contracts in a single transaction.
+And so on
 
 Enables "forwarding" of `msg.sender` to the contracts called.
 
